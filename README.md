@@ -1,4 +1,4 @@
 # newproject1
 This is my first git repository. 
 <br>
-author - rabia arshad
+author - rabia akhtar
